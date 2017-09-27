@@ -1,0 +1,4 @@
+﻿  select_page.cpp
+c:\users\seongju\documents\visual studio 2017\projects\c++ study projects\homework2\homework2\select_page.cpp(6): warning C4101: 'f_tmp' :참조되지 않은 지역 변수입니다.
+  Homework2.vcxproj -> C:\Users\SeongJu\Documents\Visual Studio 2017\Projects\C++ Study projects\Homework2\Debug\Homework2.exe
+  Homework2.vcxproj -> C:\Users\SeongJu\Documents\Visual Studio 2017\Projects\C++ Study projects\Homework2\Debug\Homework2.pdb (Partial PDB)
