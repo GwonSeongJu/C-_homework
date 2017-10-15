@@ -114,6 +114,11 @@
     <ClCompile Include="A02_2.cpp" />
     <ClCompile Include="A02_3.cpp" />
     <ClCompile Include="A02_4.cpp" />
+    <ClCompile Include="A03_1.cpp" />
+    <ClCompile Include="A03_2.cpp" />
+    <ClCompile Include="A04_1.cpp" />
+    <ClCompile Include="A04_2.cpp" />
+    <ClCompile Include="A04_3.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ManageWord.cpp" />
     <ClCompile Include="A02_1.cpp" />
@@ -122,6 +127,11 @@
   <ItemGroup>
     <ClInclude Include="A02_3.h" />
     <ClInclude Include="A02_4.h" />
+    <ClInclude Include="A03_1.h" />
+    <ClInclude Include="A03_2.h" />
+    <ClInclude Include="A04_1.h" />
+    <ClInclude Include="A04_2.h" />
+    <ClInclude Include="A04_3.h" />
     <ClInclude Include="ManageWord.h" />
     <ClInclude Include="A02_1.h" />
     <ClInclude Include="select_page.h" />

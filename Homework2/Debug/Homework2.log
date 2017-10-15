@@ -1,4 +1,13 @@
-﻿  select_page.cpp
-c:\users\seongju\documents\visual studio 2017\projects\c++ study projects\homework2\homework2\select_page.cpp(6): warning C4101: 'f_tmp' :참조되지 않은 지역 변수입니다.
-  Homework2.vcxproj -> C:\Users\SeongJu\Documents\Visual Studio 2017\Projects\C++ Study projects\Homework2\Debug\Homework2.exe
-  Homework2.vcxproj -> C:\Users\SeongJu\Documents\Visual Studio 2017\Projects\C++ Study projects\Homework2\Debug\Homework2.pdb (Partial PDB)
+﻿  ManageWord.cpp
+c:\users\seongju\documents\visual studio 2017\projects\c++ study projects\homework2\homework2\manageword.cpp(19): error C2440: '초기화 중': 'initializer list'에서 'info_quest *'(으)로 변환할 수 없습니다.
+  c:\users\seongju\documents\visual studio 2017\projects\c++ study projects\homework2\homework2\manageword.cpp(19): note: 이니셜라이저에 요소가 너무 많습니다.
+c:\users\seongju\documents\visual studio 2017\projects\c++ study projects\homework2\homework2\manageword.cpp(23): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\seongju\documents\visual studio 2017\projects\c++ study projects\homework2\homework2\manageword.cpp(23): error C2040: 'quest_list': 'int'의 간접 참조 수준이 'info_quest **'과(와) 다릅니다.
+c:\users\seongju\documents\visual studio 2017\projects\c++ study projects\homework2\homework2\manageword.cpp(23): error C2440: '초기화 중': 'info_quest **'에서 'int'(으)로 변환할 수 없습니다.
+  c:\users\seongju\documents\visual studio 2017\projects\c++ study projects\homework2\homework2\manageword.cpp(23): note: 이 변환이 가능한 컨텍스트가 없습니다.
+c:\users\seongju\documents\visual studio 2017\projects\c++ study projects\homework2\homework2\manageword.cpp(42): error C2065: 'quests': 선언되지 않은 식별자입니다.
+c:\users\seongju\documents\visual studio 2017\projects\c++ study projects\homework2\homework2\manageword.cpp(42): error C2228: '.func' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+c:\users\seongju\documents\visual studio 2017\projects\c++ study projects\homework2\homework2\manageword.cpp(57): error C2065: 'quests': 선언되지 않은 식별자입니다.
+c:\users\seongju\documents\visual studio 2017\projects\c++ study projects\homework2\homework2\manageword.cpp(57): error C2228: '.name' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.
+c:\users\seongju\documents\visual studio 2017\projects\c++ study projects\homework2\homework2\manageword.cpp(67): error C2065: 'quests': 선언되지 않은 식별자입니다.
+c:\users\seongju\documents\visual studio 2017\projects\c++ study projects\homework2\homework2\manageword.cpp(67): error C2228: '.name' 왼쪽에는 클래스/구조체/공용 구조체가 있어야 합니다.

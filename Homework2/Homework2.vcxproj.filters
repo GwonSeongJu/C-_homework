@@ -24,9 +24,6 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ManageWord.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="select_page.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -40,6 +37,24 @@
       <Filter>소스 파일\answer</Filter>
     </ClCompile>
     <ClCompile Include="A02_4.cpp">
+      <Filter>소스 파일\answer</Filter>
+    </ClCompile>
+    <ClCompile Include="ManageWord.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="A03_1.cpp">
+      <Filter>소스 파일\answer</Filter>
+    </ClCompile>
+    <ClCompile Include="A03_2.cpp">
+      <Filter>소스 파일\answer</Filter>
+    </ClCompile>
+    <ClCompile Include="A04_1.cpp">
+      <Filter>소스 파일\answer</Filter>
+    </ClCompile>
+    <ClCompile Include="A04_2.cpp">
+      <Filter>소스 파일\answer</Filter>
+    </ClCompile>
+    <ClCompile Include="A04_3.cpp">
       <Filter>소스 파일\answer</Filter>
     </ClCompile>
   </ItemGroup>
@@ -60,6 +75,21 @@
       <Filter>헤더 파일\answer</Filter>
     </ClInclude>
     <ClInclude Include="A02_4.h">
+      <Filter>헤더 파일\answer</Filter>
+    </ClInclude>
+    <ClInclude Include="A03_1.h">
+      <Filter>헤더 파일\answer</Filter>
+    </ClInclude>
+    <ClInclude Include="A03_2.h">
+      <Filter>헤더 파일\answer</Filter>
+    </ClInclude>
+    <ClInclude Include="A04_1.h">
+      <Filter>헤더 파일\answer</Filter>
+    </ClInclude>
+    <ClInclude Include="A04_2.h">
+      <Filter>헤더 파일\answer</Filter>
+    </ClInclude>
+    <ClInclude Include="A04_3.h">
       <Filter>헤더 파일\answer</Filter>
     </ClInclude>
   </ItemGroup>
